@@ -66,3 +66,18 @@
     padding: 20px;
     width: 100%;
   }
+
+  #container{
+    display: flex;
+    flex-flow: row;
+    justify-content: flex-end;
+    
+  }
+
+  #container a{
+    /* border: 1px solid black; */
+    margin-left: 20px;
+    text-decoration: none; 
+    font-size: 20px;
+    color: rgb(54, 50, 50);
+  }
